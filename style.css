@@ -60,9 +60,9 @@
 .chip {
     display: inline-block;
     padding: 0 20px;
-    height: 40px;
+    height: 30px;
     font-size: 16px;
-    line-height: 40px;
+    line-height: 30px;
     border-radius: 25px;
     background-color: #F79432;
     color: #fff;
