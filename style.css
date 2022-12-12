@@ -5,7 +5,7 @@
 }
 
 .name{
-    font-size: 30px;
+    font-size: 26px;
     font-weight: 600;
     text-shadow: 5px -1px 25px rgba(0,0,0,0.64);
     text-align: center;
@@ -21,12 +21,41 @@
     flex-direction: row;
     justify-content: flex-start;
     gap: '90px';
+    flex-wrap: wrap;
 }
-
 
 .title{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+
+.card {
+
+    padding: 10px;
+    border: 2px solid black;
+
 
 }
+
+.company-name{
+    font-weight: bold;
+    background-color: yellow;
+    width: 400px;
+}
+
+.project{
+
+}
+
+.project-name{
+    background-color: chartreuse;
+    width: 200px;
+    font-weight: bold;
+
+}
+
 
 .chip {
     display: inline-block;
@@ -35,10 +64,14 @@
     font-size: 16px;
     line-height: 40px;
     border-radius: 25px;
-    background-color: #f1f1f1;
+    background-color: #F79432;
+    color: #fff;
   }
   
 
   .section{
-    
+    margin-left: 10%;
+    margin-top: 50px;
+
   }
+  
