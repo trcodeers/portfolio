@@ -1,0 +1,35 @@
+
+
+.container {
+    font-family: sans-serif;
+}
+
+.name{
+    font-size: 30px;
+    font-weight: 600;
+    text-shadow: 5px -1px 25px rgba(0,0,0,0.64);
+    text-align: center;
+    margin-top: 40px;
+}
+
+.skills{
+    margin-top: 20px;
+}
+
+.skill-lists{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: '90px';
+}
+
+.chip {
+    display: inline-block;
+    padding: 0 20px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+    border-radius: 25px;
+    background-color: #f1f1f1;
+  }
+  
