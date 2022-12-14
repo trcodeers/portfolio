@@ -79,6 +79,7 @@
     border-radius: 25px;
     background-color: #F79432;
     color: #fff;
+    /* font-family:sans-serif; */
   }
   
 
@@ -86,5 +87,9 @@
     margin-left: 10%;
     margin-top: 50px;
 
+  }
+
+  .tech-stack{
+    font-weight: bold;
   }
   
