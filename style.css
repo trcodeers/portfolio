@@ -56,6 +56,19 @@
 
 }
 
+.contact-details{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+
+}
+
+.contact-name{
+    font-weight: bold;
+    font-size: 15px;
+
+}
 
 .chip {
     display: inline-block;
